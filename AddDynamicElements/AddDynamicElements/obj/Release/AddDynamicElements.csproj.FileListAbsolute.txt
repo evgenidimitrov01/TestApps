@@ -1,0 +1,10 @@
+C:\Users\Gecata\AppData\Local\Temporary Projects\AddDynamicElements\bin\Release\AddDynamicElements.exe
+C:\Users\Gecata\AppData\Local\Temporary Projects\AddDynamicElements\bin\Release\AddDynamicElements.pdb
+C:\Users\Gecata\AppData\Local\Temporary Projects\AddDynamicElements\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gecata\AppData\Local\Temporary Projects\AddDynamicElements\obj\Release\AddDynamicElements.Form1.resources
+C:\Users\Gecata\AppData\Local\Temporary Projects\AddDynamicElements\obj\Release\AddDynamicElements.Properties.Resources.resources
+C:\Users\Gecata\AppData\Local\Temporary Projects\AddDynamicElements\obj\Release\AddDynamicElements.csproj.GenerateResource.Cache
+C:\Users\Gecata\AppData\Local\Temporary Projects\AddDynamicElements\obj\Release\AddDynamicElements.exe
+C:\Users\Gecata\AppData\Local\Temporary Projects\AddDynamicElements\obj\Release\AddDynamicElements.pdb
+F:\vsProject\AddDynamicElements\AddDynamicElements\obj\Release\AddDynamicElements.exe
+F:\vsProject\AddDynamicElements\AddDynamicElements\obj\Release\AddDynamicElements.pdb
